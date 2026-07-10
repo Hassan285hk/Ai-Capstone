@@ -22,16 +22,21 @@ This project demonstrates modern frontend engineering practices alongside respon
 
 ## Getting Started
 
+### Prerequisites
+
+- Node.js (an active LTS release is recommended)
+- npm
+
 1. Clone the repository.
 2. Install dependencies with `npm install`.
-3. Create a `.env` file from the project’s environment-variable template, if provided.
+3. Create a `.env` file from the project's environment-variable template, if provided.
 4. Start the development server with `npm run dev`.
 
 ## Available Scripts
 
-- `npm run dev` — start the local development server
-- `npm run build` — create a production build
-- `npm run lint` — run static code checks
+- `npm run dev` - start the local development server
+- `npm run build` - create a production build
+- `npm run lint` - run static code checks
 
 ## Project Principles
 
